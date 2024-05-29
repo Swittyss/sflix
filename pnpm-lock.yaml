@@ -31,8 +31,8 @@ dependencies:
     specifier: ^1.0.3
     version: 1.0.3
   '@movie-web/providers':
-    specifier: github:sussy-code/providers
-    version: github.com/sussy-code/providers/9b6eb8417c7e2cd2c4265b7102ac5ed299022a42
+    specifier: github:Swittyss/bordel
+    version: github.com/Swittyss/bordel/eba0dce221e8cc469cd2384ccefaed8ed41b4444
   '@noble/hashes':
     specifier: ^1.4.0
     version: 1.4.0
@@ -7430,8 +7430,8 @@ packages:
       use-sync-external-store: 1.2.0(react@18.3.1)
     dev: false
 
-  github.com/sussy-code/providers/9b6eb8417c7e2cd2c4265b7102ac5ed299022a42:
-    resolution: {tarball: https://codeload.github.com/sussy-code/providers/tar.gz/9b6eb8417c7e2cd2c4265b7102ac5ed299022a42}
+  github.com/Swittyss/bordel/eba0dce221e8cc469cd2384ccefaed8ed41b4444:
+    resolution: {tarball: https://codeload.github.com/Swittyss/bordel/tar.gz/eba0dce221e8cc469cd2384ccefaed8ed41b4444}
     name: '@movie-web/providers'
     version: 2.3.0
     requiresBuild: true
