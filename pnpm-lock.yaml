@@ -32,7 +32,7 @@ dependencies:
     version: 1.0.3
   '@movie-web/providers':
     specifier: github:Swittyss/bordel
-    version: github.com/Swittyss/bordel/eba0dce221e8cc469cd2384ccefaed8ed41b4444
+    version: github.com/Swittyss/bordel/8176d75b6ce36f21d75607c7deab1f4f0bdaa2af
   '@noble/hashes':
     specifier: ^1.4.0
     version: 1.4.0
@@ -7430,8 +7430,8 @@ packages:
       use-sync-external-store: 1.2.0(react@18.3.1)
     dev: false
 
-  github.com/Swittyss/bordel/eba0dce221e8cc469cd2384ccefaed8ed41b4444:
-    resolution: {tarball: https://codeload.github.com/Swittyss/bordel/tar.gz/eba0dce221e8cc469cd2384ccefaed8ed41b4444}
+  github.com/Swittyss/bordel/8176d75b6ce36f21d75607c7deab1f4f0bdaa2af:
+    resolution: {tarball: https://codeload.github.com/Swittyss/bordel/tar.gz/8176d75b6ce36f21d75607c7deab1f4f0bdaa2af}
     name: '@movie-web/providers'
     version: 2.3.0
     requiresBuild: true
