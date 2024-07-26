@@ -40,8 +40,8 @@ importers:
         specifier: ^0.7.2
         version: 0.7.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@movie-web/providers':
-        specifier: github:sussy-code/providers
-        version: https://codeload.github.com/sussy-code/providers/tar.gz/ee539bc0ed952f40c69cf388db7a8a27528a1c4d
+        specifier: github.com/Swittyss/bordel
+        version: https://codeload.github.com/Swittyss/bordel/tar.gz/aac29d62d2d4da9a06894cef671f88336f644885
       '@noble/hashes':
         specifier: ^1.4.0
         version: 1.4.0
@@ -1206,8 +1206,8 @@ packages:
       react: '>=16.8.0'
       react-dom: '>=16.8.0'
 
-  '@movie-web/providers@https://codeload.github.com/sussy-code/providers/tar.gz/ee539bc0ed952f40c69cf388db7a8a27528a1c4d':
-    resolution: {tarball: https://codeload.github.com/sussy-code/providers/tar.gz/ee539bc0ed952f40c69cf388db7a8a27528a1c4d}
+  '@movie-web/providers@https://codeload.github.com/Swittyss/bordel/tar.gz/aac29d62d2d4da9a06894cef671f88336f644885':
+    resolution: {tarball: https://codeload.github.com/Swittyss/bordel/tar.gz/aac29d62d2d4da9a06894cef671f88336f644885}
     version: 2.3.0
 
   '@noble/hashes@1.4.0':
@@ -5266,7 +5266,7 @@ snapshots:
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
 
-  '@movie-web/providers@https://codeload.github.com/sussy-code/providers/tar.gz/ee539bc0ed952f40c69cf388db7a8a27528a1c4d':
+  '@movie-web/providers@https://codeload.github.com/Swittyss/bordel/tar.gz/aac29d62d2d4da9a06894cef671f88336f644885':
     dependencies:
       cheerio: 1.0.0-rc.12
       cookie: 0.6.0
